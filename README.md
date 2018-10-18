@@ -1,4 +1,3 @@
-# markdown
-Jasmine Garcia
+#Jasmine Garcia
 IMED 2402
 My first markdown page. +
