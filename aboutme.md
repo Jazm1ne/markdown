@@ -15,7 +15,7 @@ The importance of this course is that...
 “Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”
 
 ## WEBSITE FORMATTING
-* Heading 1 <h1><h2>
+* Heading 1 or Heading 2
 * Bold/*italic*/underline
 * justification
 * strike-through
