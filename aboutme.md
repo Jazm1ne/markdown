@@ -16,7 +16,7 @@ The importance of this course is that...
 
 ## WEBSITE FORMATTING
 * Heading 1 or Heading 2
-* Bold/*italic*/underline
+* **Bold**/*italic*/underline
 * justification
 * strike-through
 * order/unorder list
