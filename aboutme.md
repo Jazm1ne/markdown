@@ -15,21 +15,21 @@ The importance of this course is that...
 “Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”
 
 ## WEBSITE FORMATTING
-Heading 1 <h1><h2>
-Bold/italic/underline
-justification
-strike-through
-order/unorder list
-horizontal rules
-color of copy
-block quotes
+* Heading 1 <h1><h2>
+* Bold/italic/underline
+* justification
+* strike-through
+* order/unorder list
+* horizontal rules
+* color of copy
+* block quotes
 
 ## Class courses
-Choir
-JROTC
-AP Language Composition
-Economics
-AP Physics
-Intermediate Web Programming
-Database
-Art Appreciation
+* Choir
+* JROTC
+* AP Language Composition
+* Economics
+* AP Physics
+* Intermediate Web Programming
+* Database
+* Art Appreciation
