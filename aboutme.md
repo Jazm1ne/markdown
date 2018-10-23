@@ -1,4 +1,4 @@
-# About Me 
+# About Me :page_with_curl:
 ## INTRODUCTION 
 In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school :school: . Went to Maria Moreno Elementary and Zan Wesley Holmes Middle School near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
 
@@ -22,18 +22,18 @@ The importance of this course is that...
 
 ***
 
-## WEBSITE FORMATTING
+## WEBSITE FORMATTING :open_file_folder:
 * Heading 1 or Heading 2
 * **Bold**/*italic*/underline
-* justification
+* justification :pushpin:
 * ~~strike-through~~
-* order/unorder list
+* order/unorder list :paperclip: 
 * horizontal rules
 * color of copy
-* block quotes :file_folder:
+* block quotes 
 
 ## Class courses
-1. Choir :headphones:
+1. Choir :musical_score:
 2. JROTC :books:
 3. AP Language Composition :notebook: 
 4. Economics :pencil2:
