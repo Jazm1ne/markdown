@@ -33,11 +33,11 @@ The importance of this course is that...
 * block quotes
 
 ## Class courses
-* Choir
-* JROTC
-* AP Language Composition
-* Economics
-* AP Physics
-* Intermediate Web Programming
-* Database
-* Art Appreciation :sleeping:
+1. Choir
+2. JROTC
+3. AP Language Composition
+4. Economics
+5. AP Physics
+6. Intermediate Web Programming
+7. Database
+8. Art Appreciation :sleeping:
