@@ -18,7 +18,7 @@ The importance of this course is that...
  
 ---
 
-'“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”'
+`“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”`
 
 ***
 
@@ -40,4 +40,4 @@ The importance of this course is that...
 * AP Physics
 * Intermediate Web Programming
 * Database
-* Art Appreciation
+* Art Appreciation :sleeping:
