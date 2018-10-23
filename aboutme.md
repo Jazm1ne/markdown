@@ -18,7 +18,7 @@ The importance of this course is that...
  
 ---
 
-“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”
+'“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”'
 
 ***
 
@@ -26,7 +26,7 @@ The importance of this course is that...
 * Heading 1 or Heading 2
 * **Bold**/*italic*/underline
 * justification
-* strike-through
+* ~~strike-through~~
 * order/unorder list
 * horizontal rules
 * color of copy
