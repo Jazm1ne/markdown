@@ -9,16 +9,16 @@ In present time at *Dallas, Texas* in an Urban city lives an individual named **
 ## TAKE EXPERIENCE 
 From those classes skilled gained knowledge with word press, Notepad plus plus, file management and other built websites. In free time listens to music, dances, draws, cleans, or anything that has to do with helping things done around. Interested in Starting a business in Dallas such as maybe a bakery or a choreography teaching routines. Also, went to UNT, Mountain View, SMU, El Centro, and Vermont University.
 
-Finishing Associates Degree during the year of graduation of high school 2020 and continue later on in a college or university with studies to accomplish more degrees and desired goals.
+:octopus: Finishing Associates Degree during the year of graduation of high school 2020 and continue later on in a college or university with studies to accomplish more degrees and desired goals.
 
  
 - - -
 
-The importance of this course is that...
+:thought_balloon: The importance of this course is that...
  
 ---
 
-`“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”`
+`“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”` :speech_balloon:
 
 ***
 
@@ -28,9 +28,9 @@ The importance of this course is that...
 * justification :pushpin:
 * ~~strike-through~~
 * order/unorder list :paperclip: 
-* horizontal rules
+* horizontal rules:page_facing_up:
 * color of copy
-* block quotes 
+* block quotes :clipboard:
 
 ## Class courses
 1. Choir :musical_score:
