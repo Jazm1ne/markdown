@@ -1,13 +1,13 @@
 # About Me
-## INTRODUCTION
+## INTRODUCTION :smile:
 In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school. Went to Maria Moreno Elementary and Zan Wesley Holmes Middle School near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
 
 
 
 ****************
 
-## TAKE EXPERIENCE
-From those classes skilled gained knowledge with word press, Notepad plus plus, file management and other built websites. In free time listens to music, dances, draws, cleans, or anything that has to do with helping things done around. Interested in Starting a business in Dallas such as maybe a bakery or a choreography teaching routines. Also, went to <span style="color: green">UNT</span>, Mountain View, SMU, El Centro, and Vermont University.
+## TAKE EXPERIENCE :blush:
+From those classes skilled gained knowledge with word press, Notepad plus plus, file management and other built websites. In free time listens to music, dances, draws, cleans, or anything that has to do with helping things done around. Interested in Starting a business in Dallas such as maybe a bakery or a choreography teaching routines. Also, went to UNT, Mountain View, SMU, El Centro, and Vermont University.
 
 Finishing Associates Degree during the year of graduation of high school 2020 and continue later on in a college or university with studies to accomplish more degrees and desired goals.
 
@@ -32,12 +32,12 @@ The importance of this course is that...
 * color of copy
 * block quotes
 
-## Class courses
-1. Choir
-2. JROTC
-3. AP Language Composition
-4. Economics
-5. AP Physics
+## Class courses :wave:
+1. Choir :blue_book:
+2. JROTC :books:
+3. AP Language Composition :notebook: :pencil2:
+4. Economics 
+5. AP Physics :green_book:
 6. Intermediate Web Programming
-7. Database
+7. Database :orange_book:
 8. Art Appreciation :sleeping:
