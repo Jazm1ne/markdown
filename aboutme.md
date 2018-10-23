@@ -1,6 +1,6 @@
 # About Me
-## __INTRODUCTION__
-In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school. Went to Maria Moreno Elementary and __Zan Wesley Holmes Middle School__ near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
+## <font color="green">INTRODUCTION</font>
+In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school. Went to Maria Moreno Elementary and __*Zan Wesley Holmes Middle School*__ near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
 
 
 
